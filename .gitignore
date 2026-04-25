@@ -1,9 +1,13 @@
-# 源代码和构建产物
-*.py
+# 核心源代码（不开源）
+main.py
+player.py
+build.spec
+requirements.txt
+
+# 构建产物
 __pycache__/
 build/
 dist/
-*.spec
 *.cfg
 
 # IDE
@@ -11,12 +15,10 @@ dist/
 .idea/
 *.pyc
 
-# Python
-*.egg-info/
-
 # OS
 Thumbs.db
 .DS_Store
 
 # Claude
 .claude/
+*.zip
