@@ -6,7 +6,6 @@ MIDI 文件解析模块
 from dataclasses import dataclass
 from typing import List, Optional, Union
 import mido
-import copy
 
 
 @dataclass
@@ -121,12 +120,10 @@ def parse_midi(file_path: str, octave_shift: int = 0,
     return events
 
 
-def get_midi_info(file_path: str) -> dict:
-    """
-    获取 MIDI 文件基本信息
-    """
+def get_midi_info(file_path: str, events: List[NoteEvent] = None) -> dict:
     mid = mido.MidiFile(file_path)
-    events = parse_midi(file_path)
+    if events is None:
+        events = parse_midi(file_path)
 
     if not events:
         return {
@@ -167,6 +164,8 @@ def export_midi(src_path: str, dst_path: str,
 
     if selected_tracks is None:
         selected_tracks = list(range(len(mid.tracks)))
+    else:
+        selected_tracks = set(selected_tracks)
 
     for i, track in enumerate(mid.tracks):
         if i not in selected_tracks:
