@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "id": 1,
+      "name": "天空之城",
+      "artist": "久石让",
+      "file": "01. 天空之城 - 久石让.mid"
+    },
+    {
+      "id": 2,
+      "name": "宫崎骏动画组曲",
+      "artist": "",
+      "file": "02. 宫崎骏动画组曲.mid"
+    },
+    {
+      "id": 3,
+      "name": "晴れゆく空",
+      "artist": "电影《天气之子》插曲",
+      "file": "03. 晴れゆく空 - 电影《天气之子》插曲.mid"
+    },
+    {
+      "id": 4,
+      "name": "家族の时间",
+      "artist": "电影《天气之子》插曲",
+      "file": "04. 家族の时间 - 电影《天气之子》插曲.mid"
+    },
+    {
+      "id": 5,
+      "name": "爱能做到的还有什么",
+      "artist": "电影《天气之子》插曲",
+      "file": "05. 爱能做到的还有什么 - 电影《天气之子》插曲.mid"
+    },
+    {
+      "id": 6,
+      "name": "花火大会",
+      "artist": "电影《天气之子》插曲",
+      "file": "06. 花火大会 - 电影《天气之子》插曲.mid"
+    },
+    {
+      "id": 7,
+      "name": "すずめ",
+      "artist": "电影《铃芽之旅》主题曲",
+      "file": "07. すずめ - 电影《铃芽之旅》主题曲.mid"
+    },
+    {
+      "id": 8,
+      "name": "打上花火",
+      "artist": "电影《烟花》主题曲",
+      "file": "08. 打上花火 - 电影《烟花》主题曲.mid"
+    },
+    {
+      "id": 9,
+      "name": "三葉のテーマ",
+      "artist": "电影《你的名字》插曲",
+      "file": "09. 三葉のテーマ - 电影《你的名字》插曲.mid"
+    },
+    {
+      "id": 10,
+      "name": "想い出は远くの日々",
+      "artist": "剧场动画《秒速五厘米》插曲",
+      "file": "10. 想い出は远くの日々 - 剧场动画《秒速五厘米》插曲.mid"
+    },
+    {
+      "id": 11,
+      "name": "One more time one more chance",
+      "artist": "剧场动画《秒速五厘米》结尾曲",
+      "file": "11. One more time one more chance - 剧场动画《秒速五厘米》结尾曲.mid"
+    },
+    {
+      "id": 12,
+      "name": "四月是你的谎言《组曲》 by：沃仙-超威老炮",
+      "artist": "",
+      "file": "12. 四月是你的谎言《组曲》 by：沃仙-超威老炮.mid"
+    },
+    {
+      "id": 13,
+      "name": "穿越时空的思念",
+      "artist": "",
+      "file": "13. 穿越时空的思念.mid"
+    },
+    {
+      "id": 14,
+      "name": "大鱼",
+      "artist": "电影《大鱼海棠》主题曲",
+      "file": "14. 大鱼 - 电影《大鱼海棠》主题曲.mid"
+    },
+    {
+      "id": 15,
+      "name": "Remember me",
+      "artist": "电影《寻梦环游记》插曲",
+      "file": "15. Remember me - 电影《寻梦环游记》插曲.mid"
+    },
+    {
+      "id": 16,
+      "name": "Merry Christmas Mr.Lawrence",
+      "artist": "",
+      "file": "16. Merry Christmas Mr.Lawrence.mid"
+    },
+    {
+      "id": 17,
+      "name": "梦中的婚礼",
+      "artist": "",
+      "file": "17. 梦中的婚礼.mid"
+    },
+    {
+      "id": 18,
+      "name": "贝加摩组曲 第三乐章 《月光》",
+      "artist": "德彪西",
+      "file": "18. 贝加摩组曲 第三乐章 《月光》 - 德彪西.mid"
+    },
+    {
+      "id": 19,
+      "name": "Flower Dance",
+      "artist": "",
+      "file": "19. Flower Dance.mid"
+    },
+    {
+      "id": 20,
+      "name": "Born a stranger",
+      "artist": "游戏 To the Moon《去月球》 插曲",
+      "file": "20. Born a stranger - 游戏 To the Moon《去月球》 插曲.mid"
+    },
+    {
+      "id": 21,
+      "name": "For River",
+      "artist": "游戏《To the Moon》插曲",
+      "file": "21. For River - 游戏《To the Moon》插曲.mid"
+    },
+    {
+      "id": 22,
+      "name": "一路向北",
+      "artist": "周杰伦",
+      "file": "22. 一路向北 - 周杰伦.mid"
+    },
+    {
+      "id": 23,
+      "name": "夜曲",
+      "artist": "周杰伦",
+      "file": "23. 夜曲 - 周杰伦.mid"
+    },
+    {
+      "id": 24,
+      "name": "晴天",
+      "artist": "周杰伦",
+      "file": "24. 晴天 - 周杰伦.mid"
+    },
+    {
+      "id": 25,
+      "name": "稻香",
+      "artist": "周杰伦",
+      "file": "25. 稻香 - 周杰伦.mid"
+    },
+    {
+      "id": 26,
+      "name": "蒲公英的约定",
+      "artist": "周杰伦",
+      "file": "26. 蒲公英的约定 - 周杰伦.mid"
+    },
+    {
+      "id": 27,
+      "name": "青花瓷",
+      "artist": "周杰伦",
+      "file": "27. 青花瓷 - 周杰伦.mid"
+    },
+    {
+      "id": 28,
+      "name": "后来",
+      "artist": "刘若英",
+      "file": "28. 后来 - 刘若英.mid"
+    },
+    {
+      "id": 29,
+      "name": "起风了",
+      "artist": "买辣椒也用卷",
+      "file": "29. 起风了 - 买辣椒也用卷.mid"
+    },
+    {
+      "id": 30,
+      "name": "那些年",
+      "artist": "胡夏",
+      "file": "30. 那些年 - 胡夏.mid"
+    },
+    {
+      "id": 31,
+      "name": "童话",
+      "artist": "光良",
+      "file": "31. 童话 - 光良.mid"
+    },
+    {
+      "id": 32,
+      "name": "江南",
+      "artist": "林俊杰",
+      "file": "32. 江南 - 林俊杰.mid"
+    },
+    {
+      "id": 33,
+      "name": "富士山下",
+      "artist": "陈奕迅",
+      "file": "33. 富士山下 - 陈奕迅.mid"
+    },
+    {
+      "id": 34,
+      "name": "小幸运",
+      "artist": "田馥甄",
+      "file": "34. 小幸运 - 田馥甄.mid"
+    },
+    {
+      "id": 35,
+      "name": "刻在我心底的名字",
+      "artist": "Mayday",
+      "file": "35. 刻在我心底的名字 - Mayday.mid"
+    },
+    {
+      "id": 36,
+      "name": "海阔天空",
+      "artist": "beyond",
+      "file": "36. 海阔天空 - beyond.mid"
+    },
+    {
+      "id": 37,
+      "name": "孤勇者mid",
+      "artist": "",
+      "file": "37. 孤勇者mid.mid"
+    },
+    {
+      "id": 38,
+      "name": "Shape of you",
+      "artist": "",
+      "file": "38. Shape of you.mid"
+    }
+  ]
+}
